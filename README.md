@@ -35,20 +35,6 @@ A classic Tic Tac Toe game built with HTML, CSS, and JavaScript. Play against a 
 └── README.md     # Project documentation
 ```
 
-## 🖼️ Preview of Game
-
-### Game Interface
-![Game Start](preview/game-start.png)
-*Clean game interface with empty board*
-
-### Gameplay
-![Gameplay](preview/gameplay.png)
-*Players taking turns placing X's and O's*
-
-### Winner State
-![Winner](preview/winner.png)
-*Winner announcement with New Game option*
-
 ### Game States:
 - 🎮 **Playing**: Click boxes to place marks
 - 🏆 **Winner**: Game announces winner and shows "New Game" button
